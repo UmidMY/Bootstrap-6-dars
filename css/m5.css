@@ -1,0 +1,47 @@
+.a{
+    box-shadow: 0 0 15px #e00a0a inset;
+}
+.tx{
+    font-size: 2.3rem;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+}
+.m{
+    padding: 0;
+}
+.ll{
+    text-transform: none;
+    text-decoration: black;
+    color: black;
+}
+.list-group-item:last-child{
+    border-bottom-right-radius:0;
+    border-bottom-left-radius:0;
+}
+.list-group-item:first-child {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+.b{
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+.a1{
+    box-shadow: 0 0 15px #0048b8 inset;
+}
+.a2{
+    box-shadow: 0 0 15px #0c8400 inset;
+}
+.a3{
+    box-shadow: 0 0 15px #444c44 inset;
+}
+.bg{
+    background-color: #e02323;
+}
+.bg1{
+    background-color: #fd3434;
+}
+.pr{
+    box-shadow: 0 0 15px #0048b8 inset;
+}
